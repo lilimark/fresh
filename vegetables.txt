@@ -1,3 +1,2 @@
 carrot
 potato
-tomato 
